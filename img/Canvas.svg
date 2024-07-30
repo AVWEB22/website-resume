@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="750" height="750" viewBox="0 0 750 750">
+  <defs>
+    <clipPath id="clip-Canvas">
+      <rect width="750" height="750"/>
+    </clipPath>
+  </defs>
+  <g id="Canvas" clip-path="url(#clip-Canvas)">
+    <rect width="750" height="750" fill="rgba(0,0,0,0)"/>
+    <text id="VC" transform="translate(-5 100)" font-size="500" font-family="AcademyEngravedLetPlain, Academy Engraved LET"><tspan x="20.889" y="444">V</tspan><tspan y="444" font-family="BrushScriptMT, Brush Script MT">C</tspan></text>
+  </g>
+</svg>
